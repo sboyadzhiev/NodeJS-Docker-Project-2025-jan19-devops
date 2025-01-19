@@ -39,7 +39,7 @@ The **Premium Car Dealership Website** is a Node.js-based web application design
 
 4. **Run the Application**:
    ```bash
-   node server.js
+   node app.js
    ```
 
 5. **Access the Website**:
